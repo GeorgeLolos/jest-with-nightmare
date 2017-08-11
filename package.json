@@ -9,8 +9,8 @@
     "react-scripts": "0.6.1"
   },
   "dependencies": {
-    "react": "15.4.1",
-    "react-dom": "15.4.1"
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -21,4 +21,3 @@
     "test:cov": "react-scripts test --env=jsdom test --coverage"
   }
 }
-
